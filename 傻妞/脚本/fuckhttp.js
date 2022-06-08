@@ -1,0 +1,2 @@
+// [rule: http]
+sendText()

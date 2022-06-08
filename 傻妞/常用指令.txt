@@ -1,0 +1,35 @@
+傻妞机器人名 #这个没什么用
+set sillyGirl name 晚子
+
+傻妞http服务端口 #个人建议改一下默认端口，就是感觉不能默认，端口记得放行
+set sillyGirl port 2333
+
+傻妞消息撤回等待时间，单位秒 #默认好像是60s
+set sillyGirl duration 30
+
+傻妞自动升级是否通知
+set sillyGirl update_notify true
+
+是否开启傻妞自动更新 #建议关闭
+set sillyGirl auto_update false
+
+是否启动http服务 #开启
+set sillyGirl enable_http_server true
+
+# 设置青龙openapi的client_id参数
+set qinglong client_id xxx
+
+# 设置青龙openapi的client_secret参数
+set qinglong client_secret xxxxx
+
+# 设置青龙面板地址
+set qinglong host http://IP:端口
+
+# 设置telegram机器人token
+set tg token xxxx
+
+# 设置telegram机器人管理员ID
+set tg masters xxxx
+
+#开启芝士
+set jd_cookie enable_jd_cookie true

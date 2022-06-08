@@ -1,0 +1,67 @@
+任务名: CJ组队瓜分
+关键词: jd_cjzdgf.js
+变量: jd_cjhy_activityId
+
+任务名: LZ组队瓜分
+关键词: jd_zdjr.js
+变量: jd_zdjr_activityId
+
+任务名: 加购
+关键词: jd_wx_addCart.js
+变量: M_WX_ADD_CART_URL
+
+任务名: 微定制
+关键词: team60.js
+变量: jd_wdz_activityId
+
+任务名: 微信抽奖
+关键词: jd_wx_luckDraw.js
+变量: M_WX_LUCK_DRAW_URL
+
+任务名: 开卡
+关键词: jd_OpenCard_Force.js
+变量: VENDER_ID
+
+任务名: 分享有礼
+关键词: jd_share.js
+变量: jd_fxyl_activityId
+
+任务名: 集卡抽奖
+关键词: jd_wxCollectCard.js
+变量: M_WX_COLLECT_CARD_URL
+
+任务名: joyjd任务
+关键词: jd_joyjd_open.js
+变量: M_WX_COLLECT_CARD_URL
+
+任务名: 大牌联合
+关键词: jd_opencardDPLHTY.js
+变量: DPLHTY
+
+任务名: 盲盒任务
+关键词: jd_mhtask
+变量: jd_mhurlList
+
+任务名: 游戏
+关键词: jd_game.js
+变量: JD_Lottery
+
+任务名: joy抽奖机
+关键词: jd_lottery.js
+变量: JD_Lottery
+
+任务名: joy开卡
+关键词: jd_joyopen
+变量: JD_JOYOPEN
+
+任务名: LZ刮刮乐抽奖
+关键词: jd_drawCenter.js
+变量: jd_drawCenter_activityId
+
+任务名: 幸运抽奖
+关键词: jd_wx_luckDraw.js
+变量: M_WX_LUCK_DRAW_URL
+
+任务名: LZ读秒拼手速
+关键词: jd_wxSecond.js
+变量: jd_wxSecond_activityId

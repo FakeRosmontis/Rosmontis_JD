@@ -1,0 +1,22 @@
+基本指令
+1. ql update    #更新并重启青龙
+2. ql extra    #运行自定义脚本
+3. ql raw <fileurl>    #更新单个脚本文件
+4. ql repo <库地址> <拉什么> <不拉什么> <依赖> <分支>    #更新单个
+
+仓库指令
+1. ql rmlog <days>    #删除旧日志
+2. ql bot    #启动TgBot
+2. ql check    #检测青龙环境并修复
+4. ql resetlet    #重置登录错误次数
+5. ql resettfa    #禁用两步登录
+
+附加指令
+使用例：
+task xxx.js conc jd_bean_change
+task xxx.js desi JD_COOKIE 1-3
+
+1. conc JD_COOKIE    #脚本并发
+2. desi JD_COOKIE 1 2 12-99（指定第12，12至99号ck运行）指定CK运行
+
+/cmd notify 哈喽      #推送测试（发给机器人的需要开启cmd）
